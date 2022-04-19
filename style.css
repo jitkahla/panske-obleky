@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
-<<<<<<< HEAD
-=======
 
 @font-face {
   font-family: 'Fashion Victim';
   src: url(fonts/fashion-victim.woff2) format('woff2');
 }
->>>>>>> 79b990f5df127667687a5be2ff2dadc81d6cfed8
 
 * {
   box-sizing: border-box;
@@ -27,14 +24,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-header {
-  padding-top: 4rem;
-  background-image: url(img/suit.jpg), url(img/bg.jpg);
-  background-position: center, center;
-  background-repeat: no-repeat, repeat-x;
-  height: 360px;
-}
-
 header {
   padding-top: 4rem;
   background-image: url(img/suit.jpg), url(img/bg.jpg);
